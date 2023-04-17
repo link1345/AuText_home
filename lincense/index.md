@@ -6,6 +6,8 @@ subtitle: ソフトウェア規約
 
 [※ Third Party Licenseはこちら](./third_party_license.html)
 
+[※ プライバシーポリシーはこちら](./privacy.html)
+
 ## 第1条 はじめに
 
 本規約は、Orizika(以下、「当方」と言います。)が提供している「AuText」を、ユーザーが利用する一切の行為に適用されます。
