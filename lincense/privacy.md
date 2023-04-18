@@ -1,7 +1,7 @@
 --- 
 layout: default
-title: Privacy policy
-subtitle: プライバシーポリシー
+title: Software Privacy policy
+subtitle: ソフトウェアのプライバシーポリシー
 ---
 
 Orizika（以下，「当方」といいます。）は，提供するAuText（以下,「本アプリ」といいます。）における，ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシー（以下，「本ポリシー」といいます。）を定めます。

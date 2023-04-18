@@ -6,7 +6,7 @@ subtitle: ソフトウェア規約
 
 [※ Third Party Licenseはこちら](./third_party_license.html)
 
-[※ プライバシーポリシーはこちら](./privacy.html)
+[※ ソフトウェアのプライバシーポリシーはこちら](./privacy.html)
 
 ## 第1条 はじめに
 
