@@ -2,6 +2,7 @@
 layout: default
 title: Third Party Lincense
 subtitle: サードパーティーライセンス
+lang: ja
 ---
 
 ## NAudio

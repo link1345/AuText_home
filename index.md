@@ -3,7 +3,12 @@ layout: default
 title: AuText
 header_type: hero
 subtitle: 「ソフトウェア・マイク・ファイル」から、ローカルに文字起こし
+lang: ja
 ---
+
+## Download
+
+<a href="https://apps.microsoft.com/store/detail/autext/9NP0PJHCSRH3"><img src="/assets/icon/English_get it from MS_864X312.svg" width=250 height=250 alt="MS Store Icon"></a>
 
 ## About
 
@@ -12,15 +17,7 @@ subtitle: 「ソフトウェア・マイク・ファイル」から、ローカ�
 - シンプルなデザインで、複雑な作業がありません！
 - パソコン内で処理が完結するため、情報漏洩のリスクはありません！
 
-## Tips
-
-- Download - 準備中 -
-- [Get Started](./started/)
-- [Docs](./docs/)
-- [FAQ](./faq/)
-
 ## Get in Touch
 
-- Change Log - 準備中 -
 - [Lincense](./lincense/)
 - [Contact](./Contact/)

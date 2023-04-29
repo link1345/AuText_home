@@ -3,6 +3,7 @@ layout: default
 title: Contact
 header_type: hero
 subtitle: AuTextお問い合わせフォーム
+lang: ja
 ---
 
 <div style="text-align: center;">

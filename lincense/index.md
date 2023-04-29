@@ -2,6 +2,7 @@
 layout: default
 title: Lincense
 subtitle: ソフトウェア規約
+lang: ja
 ---
 
 [※ Third Party Licenseはこちら](./third_party_license.html)

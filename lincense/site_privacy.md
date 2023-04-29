@@ -2,6 +2,7 @@
 layout: default
 title: Site Privacy policy
 subtitle: このサイトのプライバシーポリシー
+lang: ja
 ---
 
 

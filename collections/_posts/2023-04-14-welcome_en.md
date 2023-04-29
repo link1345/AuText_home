@@ -4,7 +4,7 @@ title: ホームページ出来ました
 subtitle: AuText HomePage Welcome!
 tags:
   - News
-  - ja
+  - en
 ---
 
 ホームページ作りました。

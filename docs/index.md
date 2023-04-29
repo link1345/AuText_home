@@ -2,6 +2,7 @@
 layout: default
 title: Documents
 subtitle: AuTextをもっと知ろう！
+leng: ja
 ---
 
 ## 目次
