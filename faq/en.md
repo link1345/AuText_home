@@ -21,7 +21,7 @@ Answer: The speed of transcription depends on the specs of your computer.
 
 ## Question 2: Why is the transcription so slow?
 
-Answer: [Please see "Saving recorded sound" in the document.](/docs_en/************)
+Answer: [Please see "Saving recorded sound" in the document.](/docs/en)
 
 ---
 
@@ -71,4 +71,4 @@ Currently, it is only available in Japanese.
 
 ## Question 8: Where can I contact you?
 
-Answer: [It is located here.](/Contact_en/)
+Answer: [It is located here.](/Contact/en)
